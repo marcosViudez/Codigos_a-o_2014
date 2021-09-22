@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Fantasy-Colorable/ThirdParty/NGUI/Scripts/UI/UIAnchor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/despegue.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/propJuego.js" Line="1" Column="1" />
+      <File FileName="Assets/Players/Cartoon Soldier/Scripts/soldier/soldierCamera.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/crearAranna.js" Line="1" Column="1" />
+      <File FileName="Assets/Fantasy-Colorable/ThirdParty/NGUI/Scripts/UI/UIAnchor.cs" Line="74" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

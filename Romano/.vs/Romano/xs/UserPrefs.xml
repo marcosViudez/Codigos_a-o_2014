@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A07A1E7A-6F3C-1664-1FCC-539B95943D38}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/enemigo.cs">
+    <Files>
+      <File FileName="Assets/scripts/enemigo.cs" Line="43" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Romano" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="333ac655-5507-434b-8da2-84862e1bc9db" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

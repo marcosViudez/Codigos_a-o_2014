@@ -1,0 +1,71 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/MARK17/SEGURIDAD 2021/TITULOS/JUEGOS/Romano
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55697
+Successfully changed project path to: /Volumes/MARK17/SEGURIDAD 2021/TITULOS/JUEGOS/Romano
+/Volumes/MARK17/SEGURIDAD 2021/TITULOS/JUEGOS/Romano
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/MARK17/SEGURIDAD 2021/TITULOS/JUEGOS/Romano/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-22 20:32:08.000 Unity[28803:1469204] Color LCD preferred device: AMD Radeon Pro 460 (high power)
+2021-09-22 20:32:08.000 Unity[28803:1469204] Metal devices available: 2
+2021-09-22 20:32:08.000 Unity[28803:1469204] 0: AMD Radeon Pro 460 (high power)
+2021-09-22 20:32:08.000 Unity[28803:1469204] 1: Intel(R) HD Graphics 530 (low power)
+2021-09-22 20:32:08.001 Unity[28803:1469204] Using device AMD Radeon Pro 460 (high power)
+Initializing Metal device caps: AMD Radeon Pro 460
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56803
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000858 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 59.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.082 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.670 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.6 MB.
+System memory in use after: 171.7 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2509.
+Total: 6.835290 ms (FindLiveObjects: 0.281981 ms CreateObjectMapping: 0.109942 ms MarkObjects: 6.333715 ms  DeleteObjects: 0.108638 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

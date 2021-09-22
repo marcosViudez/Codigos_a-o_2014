@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 718ba03efdb2f4d42a5a4d97fe8d2eb2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flecha: {fileID: 400008, guid: 266c995c53fdb4f43a7c4a0f892ff3e5, type: 2}
+  - lanzador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
